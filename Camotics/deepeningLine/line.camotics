@@ -1,0 +1,25 @@
+{
+      "units": "metric",
+      "resolution-mode": "high",
+      "resolution": 0.4,
+      "tools": {
+        "1": {
+          "units": "metric",
+          "shape": "conical",
+          "length": 2.5,
+          "diameter": 5,
+          "description": ""
+        }
+      },
+      "workpiece": {
+        "automatic": false,
+        "margin": 5,
+        "bounds": {
+          "min": [-10, -125, -10],
+          "max": [240, 125, 0]
+        }
+      },
+      "files": [
+        "line.nc"
+      ]
+    }
