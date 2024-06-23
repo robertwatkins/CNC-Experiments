@@ -23,8 +23,10 @@ for i in range(1, steps + 1):
     project.commands.append(command)
 
 project.finalize()
-# Print or save gcode
-#for line in project.commands:
-#    print(line)
 
-print(project)
+#show all details of the project
+#print(project)
+
+#show just the resulting gcode
+for command in project.commands:
+    print(command)
