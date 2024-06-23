@@ -1,6 +1,6 @@
 # CNC Experiments
 
-I'm working on understaing gcode and how to realize designs through gcode
+I'm working on understanding gcode and how to realize designs through gcode
 and scripting to generate gcode.
 
 ## Folders
