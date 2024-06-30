@@ -1,7 +1,7 @@
 {
       "units": "metric",
-      "resolution-mode": "high",
-      "resolution": 0.4,
+      "resolution-mode": "manual",
+      "resolution": 0.125,
       "tools": {
         "1": {
           "units": "metric",
